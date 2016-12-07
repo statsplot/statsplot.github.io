@@ -1,0 +1,6 @@
+{
+  "name": "jShiny server",
+  "tagline": "",
+  "body": "## jShiny server\r\n  jShiny Server is an alternative shiny server. It's written in [B4J](https://b4x.com/b4j.html)  \r\n   It's similar to the official open-source shiny server.\r\n   \r\n### Features   \r\n   *  Available for Windows/Linux/Mac\r\n   *  Serve the static files to improve page load speed\r\n   *  Support to start new R instances for each user \r\n\r\n[Project page](https://github.com/statsplot/jshinyserver/blob/master/README.md\r\n)\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
